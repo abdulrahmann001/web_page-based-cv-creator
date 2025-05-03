@@ -83,3 +83,25 @@ footer {
 .footer-content p {
     margin: 5px 0;
 }
+
+
+.footer {
+    background-color: var(--bg-color);
+    color: #6c757d;
+    box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.05);
+    margin-top: auto;
+}
+
+.footer p {
+    margin-bottom: 0;
+}
+
+.border-top {
+    border-top: 2px solid var(--primary-color) !important;
+}
+
+/* Optional hover effect */
+.footer:hover {
+    background-color: rgba(var(--primary-color), 0.03);
+    transition: background-color 0.3s ease;
+}

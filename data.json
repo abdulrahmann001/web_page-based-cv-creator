@@ -1,11 +1,13 @@
 {
     "profile": {
-        "name": "hama xoshnaw",
-        "title": "biology graduate ",
-        "bio": "Computer Science graduate from Soran University and a very smart person with very high skills ",
-        "profile_img": "profile.jpg",
-        "university": "salahadin university ",
-        "location": "erbil , krd"
+        "name": "Abdulrahman Kamal Mohammed",
+        "title": "Computer Science Graduate",
+        "email": "abdul001.gmcd@gmail.com",
+        "phone": "009647509208992",
+        "bio": "Computer Science graduate from Soran University...",
+        "location": "Ranya, Sulaymaniyah",
+        "university": "Soran University",
+        "profile_img": "profile.jpg"
     },
     "skills": {
         "technical": [
