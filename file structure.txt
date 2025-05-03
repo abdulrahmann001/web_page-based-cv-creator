@@ -1,0 +1,9 @@
+/root/
+├── data.json            # Stores all profile data
+├── index.php           # Main profile page
+├── edit.php            # Edit profile page
+├── save.php            # Handles form submissions
+├── header.php          # Reusable header
+├── footer.php          # Reusable footer
+└── styles/             
+    └── main.css        # Base styles

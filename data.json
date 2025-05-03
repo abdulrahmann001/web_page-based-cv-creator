@@ -1,0 +1,77 @@
+{
+    "profile": {
+        "name": "hama xoshnaw",
+        "title": "biology graduate ",
+        "bio": "Computer Science graduate from Soran University and a very smart person with very high skills ",
+        "profile_img": "profile.jpg",
+        "university": "salahadin university ",
+        "location": "erbil , krd"
+    },
+    "skills": {
+        "technical": [
+            {
+                "name": "php",
+                "progress": 80
+            },
+            {
+                "name": "json",
+                "progress": 80
+            },
+            {
+                "name": "Bootstrap",
+                "progress": 70
+            }
+        ],
+        "languages": [
+            {
+                "name": "turkish",
+                "level": "Advanced"
+            },
+            {
+                "name": "Arabic",
+                "level": "Advanced"
+            },
+            {
+                "name": "English",
+                "level": "Native"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "title": "Lost and Found Item System",
+            "description": "Web application for managing lost and found items",
+            "tech": [
+                "php",
+                "mysql",
+                "bootstrap"
+            ]
+        },
+        {
+            "title": "tracking item system",
+            "description": "Python-based navigation system using AI algorithms",
+            "tech": [
+                "h",
+                "f"
+            ]
+        }
+    ],
+    "social": {
+        "github": "https:\/\/github.com",
+        "linkedin": "https:\/\/linkedin.com",
+        "twitter": "https:\/\/twitter.com",
+        "whatsapp": "https:\/\/wa.me\/9647509208992",
+        "snapchat": "https:\/\/www.snapchat.com\/add\/abdul_92089",
+        "instagram": "https:\/\/www.instagram.com\/abdulrahmann_001",
+        "facebook": "https:\/\/www.facebook.com\/muhamad.eyhgfsuuhg"
+    },
+    "styles": {
+        "primary_color": "#b719d7",
+        "secondary_color": "#f00000",
+        "background_color": "#fa0000",
+        "header_gradient": [
+            "#0066ff",
+            "#b81474"
+        ]
+    }
+}
